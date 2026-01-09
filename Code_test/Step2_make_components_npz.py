@@ -130,5 +130,5 @@ if __name__ == "__main__":
         neg_grow_npy=r"/ybz/ybz/Eddytest/data/facts/facts_neg_grow_2000-2010.npy",
         ocean_npy=r"/ybz/ybz/Eddytest/data/facts/facts_ocean_2000-2010.npy",
         eddy_mask_npy=r"/ybz/ybz/Eddytest/data/eddy_mask_2000-2010.npy",
-        out_npz=r"/ybz/ybz/Eddytest/data/pretain/components_train.npz",
+        out_npz=r"/ybz/ybz/Eddytest/data/pretrain/components_train.npz",
     )
